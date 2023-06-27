@@ -9,7 +9,7 @@ Scars can be noticed on the cortex surface.<br />
 - PreFrontal Cortex (4 channels)<br />
 - Inferior colliculus (4 channels)<br />
 
-![https://github.com/fgmourao/Lab_Projects/blob/master/3D%20models/Rat_Brain_MRI/1.png](https://github.com/fgmourao/Lab_Projects/blob/master/3D%20models/Rat_Brain_MRI/1.png)<br />
+![https://github.com/fgmourao/3D_Models/blob/main/Rat_Brain_MRI/1.png](https://github.com/fgmourao/3D_Models/blob/main/Rat_Brain_MRI/1.png)<br />
 
 The image acquisition was performed by Flavio Mourao in 01/2017<br />
 Magnet Resonance Center of Technology (CTPMAG/UFMG)<br />
